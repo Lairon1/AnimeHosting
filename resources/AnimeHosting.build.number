@@ -1,0 +1,11 @@
+#Ant properties
+#Thu May 08 11:48:05 CEST 2025
+version.api=2211
+vendor=hybris
+group.id=de.hybris.platform
+name=AnimeHosting
+description=AnimeHosting
+builddate=20250508 1147
+releasedate=20250314 1554
+version=2211.39
+module.name=platform-module
